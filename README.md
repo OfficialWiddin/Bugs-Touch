@@ -3,8 +3,10 @@ A small iOS Game, made by me and a classmate.
 
 So you're supposed to play this with a friend (or more, up to a total of 5 players). The goal for each player is to draw a circle around your own bugs (your color) to combine the smaller bugs into bigger ones and once you only have one bug left, you win. The combining will be interrupted if there's any other colored bugs inside the circle or if your circle cross itself.
 
-Unfortunately i have no video of the game but below you can view a set of images.  
-The red area with a white border represents your drawn area.
+Unfortunately I have no video of the game but below you can view a set of images.  
+The red area with a white border represents your drawn area.  
+
+There was also a scoreboard with fastest time but I have no images of that.
 
 <b>Image 1 -</b> This is how it looks when you take your finger and draw a circle around two bugs.  
 <b>Image 2 -</b> This is the result of two successfully combined bugs, which then results in a bigger bug.   
