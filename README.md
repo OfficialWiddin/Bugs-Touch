@@ -28,3 +28,5 @@ Image 3             |  Image 4
 Image 5             |  Image 6
 :-------------------------:|:-------------------------:
 ![](https://github.com/OfficialWiddin/Bugs-Touch/blob/master/Images/Untitled-5.png)  |  ![](https://github.com/OfficialWiddin/Bugs-Touch/blob/master/Images/Untitled-6.png)
+
+The code is not commented at all and might be hard to understand.
